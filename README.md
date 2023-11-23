@@ -1,6 +1,7 @@
 # xylophone
 
-A new Flutter project.
+A new Flutter project the song player package.
+![Screenshot_20231029-212137](https://github.com/Imran-227/xylophone/assets/128098964/c0ac7e3b-fcb7-418e-b32e-863a791affba)
 
 ## Getting Started
 
